@@ -1,0 +1,6 @@
+{
+  "name": "BA A-Z Roadmap",
+  "description": "An interactive, gamified learning platform and roadmap tracker for aspiring Business Analysts, featuring deep SQL, Excel, data visualization, projects, and interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
